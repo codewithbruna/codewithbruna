@@ -39,6 +39,7 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento enquanto conti
 <img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Marvin-6A5ACD?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 
