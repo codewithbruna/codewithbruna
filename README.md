@@ -10,7 +10,7 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento enquanto conti
 
 ## 🌸 Sobre mim
 
-- 👩 Tenho **23 anos**
+- 👩 Tenho **24 anos**
 - 🐶 **Mãe orgulhosa de dois pets** (e sim, eles ajudam nos testes! 😄)
 - 🔍 **QA** com experiência em testes **manuais, exploratórios e automatizados**
 - 🛠 Hábil em **estruturar e melhorar processos de teste**
@@ -37,8 +37,10 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento enquanto conti
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Marvin-6A5ACD?style=for-the-badge&logoColor=white"/>
+</p>
 
----
 
 ## 💡 Competências Técnicas
 
