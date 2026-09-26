@@ -10,7 +10,7 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento enquanto conti
 
 ## 🌸 Sobre mim
 
-- 👩 Tenho **24 anos**
+- 👩 Tenho **25 anos**
 - 🐶 **Mãe orgulhosa de dois pets** (e sim, eles ajudam nos testes! 😄)
 - 🔍 **QA** com experiência em testes **manuais, exploratórios e automatizados**
 - 🛠 Hábil em **estruturar e melhorar processos de teste**
